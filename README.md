@@ -70,6 +70,23 @@ Home Page:
 
 ![HOME](https://github.com/isaka-james/helsb-app-design/assets/76619967/b53c2d96-96ce-43a1-8d17-12b03b77a3d5)
 
+Customercare Page:
+
+![SUPPORT](https://github.com/isaka-james/helsb-app-design/assets/76619967/c3ff2707-eb10-448c-aabe-f83995c58bf6)
+
+Transaction - Pending Page:
+
+![TRANSACTIONS PENDING](https://github.com/isaka-james/helsb-app-design/assets/76619967/747a860d-513a-4b37-96f0-6eae3e0cc11e)
+
+Transaction - Complete Page:
+
+![TRANSACTIONS COMPLETED](https://github.com/isaka-james/helsb-app-design/assets/76619967/1935aa68-f4c1-42bc-aafe-8686e4183680)
+
+Transaction - Expired Page:
+
+![TRANSACTIONS EXPIRED](https://github.com/isaka-james/helsb-app-design/assets/76619967/f75109f1-6508-4c75-bcde-fc31e7969f9e)
+
+
 
 ## License
 
