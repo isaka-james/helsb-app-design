@@ -1,4 +1,4 @@
-🎨 Helsb App Design Clone 📱
+# 🎨 Helsb App Design Clone 📱
 
 This repository contains the Figma design files for the Helsb application, a project aimed at replicating the design of the Helsb app in Tanzania. The design was collaboratively created by @isaka-james and @omgenc001.
 
