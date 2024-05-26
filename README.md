@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- **Designers**: [isaka-james](https://github.com/isaka-james) and [omgenc001](https://github.com/omgenc001)
+- **Designers**: [isaka-james](https://github.com/isaka-james) and [omgenc](https://github.com/omgenc)
 - **Tools**: Figma
 
 <img src="https://komarev.com/ghpvc/?username=omgenc-james&label=Project%20Views&color=0e75b6&style=flat" alt="since 25 May,2024" />
